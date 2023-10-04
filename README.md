@@ -6,9 +6,9 @@
 | **Class**        |                                                                                          **Description**                                                                                         |
 |:------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Pet**            | **This is a simple class to add ,remove any pet by name** 
-|
+
 | **PetStrore**      | **his class is to find out any pet.**  
-|
-| **PetManagementSystem**  | **This class contains all basic operations and is used for getting input**       
-|
+
+| **PetManagementSystem**  | **This class contains all basic operations and is used for getting input**|       
+
                                                                                                                                                         |
